@@ -1,7 +1,7 @@
 ##1. Team Members 
 
- Deep Chetan Gosalia 5697-9299
- Rohan Nitin Gandhi  1791-0958
+ Deep Chetan Gosalia
+ Rohan Nitin Gandhi 
  
 
 ##2. How to run
